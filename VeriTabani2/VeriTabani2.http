@@ -1,0 +1,6 @@
+@VeriTabani2_HostAddress = http://localhost:5041
+
+GET {{VeriTabani2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
